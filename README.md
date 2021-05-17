@@ -5,6 +5,8 @@
  
  Article - https://ammarjaved.com/generating-uuids-in-flutter
 
+Video
+
 [![](http://img.youtube.com/vi/EqDhh1R3uiA/0.jpg)](http://www.youtube.com/watch?v=EqDhh1R3uiA "")
  
  Connect With Me:
